@@ -4,3 +4,5 @@
 
 xxx Introducing new feature X in B xxx
 --- Feature X completed
+
+Keep on upgrade!

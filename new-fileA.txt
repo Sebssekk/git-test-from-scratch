@@ -2,3 +2,5 @@
 
 -- Update to file A
 -- Second update to A
+
+yyy Introducing new feature Y in A yyy

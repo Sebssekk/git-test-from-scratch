@@ -3,3 +3,4 @@
 -- Update to file B
 
 yyy Introducing new feature Y in B yyy
+-- some work on Y

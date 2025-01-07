@@ -7,6 +7,4 @@ xxx Introducing new feature X in A xxx
 
 --- Feature X completed
 
-Keep on upgrade! \,,/
-
-The origina repo ... modifying 
+Now modifying from GitHub directly... yes you can do this!

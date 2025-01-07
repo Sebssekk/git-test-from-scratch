@@ -1,3 +1,5 @@
 **New File B**
 
 -- Update to file B
+
+xxx Introducing new feature X in A xxx

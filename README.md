@@ -1,5 +1,9 @@
 # **Hi visitor**
-This repository is just an example for a *git*/*GitHub* course.  
+This repository is just an example for a `git`/`GitHub` course.
+```sh
+$ git add .
+$ git commit -m "Welcome on board"
+``` 
 
 Come and find us at [Klabs.it](https://klabs.it)  
 

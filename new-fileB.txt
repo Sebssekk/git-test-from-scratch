@@ -1,3 +1,3 @@
-**New file A**
+**New file B**
 
--- Update to file A
+-- Update to file B

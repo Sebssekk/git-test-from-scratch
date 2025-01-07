@@ -2,3 +2,7 @@
 
 -- Update to file A
 -- Second update to A
+
+xxx Introducing new feature X in A xxx
+
+--- Feature X completed

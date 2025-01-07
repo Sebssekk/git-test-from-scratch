@@ -7,4 +7,6 @@ xxx Introducing new feature X in B xxx
 
 Keep on upgrade!
 
+AAAAAA change from another folder
+
 Original repo

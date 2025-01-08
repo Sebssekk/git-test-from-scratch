@@ -5,8 +5,12 @@
 xxx Introducing new feature X in B xxx
 --- Feature X completed
 
+yyy Introducing new feature Y in B yyy
+-- some work on Y
+
 Keep on upgrade!
 
 AAAAAA change from another folder
 
 Original repo
+

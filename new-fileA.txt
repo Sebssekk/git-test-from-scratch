@@ -7,4 +7,7 @@ xxx Introducing new feature X in A xxx
 
 --- Feature X completed
 
+yyy Introducing new feature Y in A yyy
+
 Now modifying from GitHub directly... yes you can do this!
+

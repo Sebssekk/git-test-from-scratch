@@ -1,9 +1,0 @@
-** New file C **
-
-Update file C
-
-Keep on upgrade!
-
-----------------------------
-
-Change after the remote topic

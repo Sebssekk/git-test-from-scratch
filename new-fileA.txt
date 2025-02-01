@@ -3,7 +3,7 @@
 -- Update to file A
 -- Second update to A
 
-*** UPDATE TO MAIN BRANCH ***
+*** UPDATE TO MAIN BRANCH 2***
 
 xxx Introducing new feature X in A xxx
 *****************************

@@ -2,8 +2,16 @@
 
 Update file C
 
+
+yyy Introducing new feature Y in C yyy
+
+-- some work on Y
+
+
 *** UPDATE TO MAIN BRANCH ***
 
 Keep on upgrade!
+
+----------------------------
 
 Change after the remote topic

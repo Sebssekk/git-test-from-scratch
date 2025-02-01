@@ -2,6 +2,8 @@
 
 -- Update to file B
 
+*** UPDATE TO MAIN BRANCH ***
+
 xxx Introducing new feature X in B xxx
 --- Feature X completed
 

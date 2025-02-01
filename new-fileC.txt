@@ -14,4 +14,4 @@ Keep on upgrade!
 
 ----------------------------
 
-Change after the remote topic
+// ZOMBIE feature is coming
